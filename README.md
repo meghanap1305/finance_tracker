@@ -1,4 +1,4 @@
-#Finance Tracker
+Finance Tracker
 I built this project to refresh my Python skills. It is a simple tool to manage all your expenses in one place.
 
 Features:
